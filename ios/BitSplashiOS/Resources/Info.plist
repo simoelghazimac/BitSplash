@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>BitSplashiOS</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.example.bitsplash</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need access to save wallpapers to your Photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to save wallpapers to your Photos.</string>
+</dict>
+</plist>
